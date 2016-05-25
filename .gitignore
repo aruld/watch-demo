@@ -132,3 +132,9 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+.idea/
+node_modules/
+src/test/gatling/bodies/
+src/test/gatling/data/
+src/test/gatling/simulations/
+target/
